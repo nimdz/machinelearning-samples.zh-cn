@@ -199,3 +199,5 @@ ML.NET AutoML API基本上是一组打包为NuGet包的库，您可以在.NET代
 # 许可证
 
 [ML.NET 示例](https://github.com/dotnet/machinelearning-samples)根据[MIT许可证](https://github.com/dotnet/machinelearning-samples/blob/master/LICENSE)获得许可。
+
+/*******************/1000000110000100010001000110001---100010*****/
